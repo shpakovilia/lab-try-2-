@@ -9,8 +9,8 @@ ADD_DEFINITIONS(
 )
 
 # enum your files
-add_executable(executable
-	
-)
+add_executable(executable 
+	fucking_lab.cpp
+	)
 
 target_link_libraries(executable)
