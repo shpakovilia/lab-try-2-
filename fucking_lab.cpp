@@ -1,3 +1,5 @@
+$ git push origin master
+
 #include <cmath>
 #include <iostream>
 
